@@ -1,0 +1,5 @@
+{
+  "name": "SmartInventory ID",
+  "description": "Sistem pengelolaan persediaan barang jadi dengan metode penilaian FIFO/LIFO/Average dan analisis cerdas AI.",
+  "requestFramePermissions": []
+}
